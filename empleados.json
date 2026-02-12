@@ -1,0 +1,20 @@
+[
+    {
+        "nombre": "Juan",
+        "apellido": "P\u00e9rez",
+        "edad": 28,
+        "departamento": "Ventas"
+    },
+    {
+        "nombre": "Mar\u00eda",
+        "apellido": "G\u00f3mez",
+        "edad": 32,
+        "departamento": "Desarrollo"
+    },
+    {
+        "nombre": "Carlos",
+        "apellido": "L\u00f3pez",
+        "edad": 24,
+        "departamento": "Marketing"
+    }
+]
